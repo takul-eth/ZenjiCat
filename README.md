@@ -9,15 +9,11 @@
   Born from the quiet corners of Zora — built with love, care, and zero noise.
 </p>
 
-<br>
-
 <p align="center">
   <a href="concept/vision.md">📜 Vision</a> • 
-  <a href="concept/legend-teaser.md">🐾 Legend Teaser</a> • 
+  <a href="concept/lore-teaser.md">🐾 Legend Teaser</a> • 
   <a href="visuals/">🪷 Visuals</a>
 </p>
-
-<br>
 
 ---
 
@@ -78,25 +74,19 @@ Built by **Takul .eth** 🧘‍♂️
 
 This repo will evolve in phases:
 
-**concept** → Lore, vision, narrative  
-**visuals** → Core brand assets & key visuals  
-**contracts** → (future) Token, minting, claim logic  
-**meta** → Zora / Frames / metadata JSONs  
+/concept → Lore, vision, narrative
+/visuals → Core brand assets & key visuals
+/contracts → (future) Token, minting, claim logic
+/meta → Zora / Frames / metadata JSONs
+
 
 Stay tuned.  
 Stay calm.  
-**Zenji is watching.** 👁️‍🪷
+Zenji is watching. 🪶
 
 ---
 
-## 📜 Read the first whispers of the Zenji legend
-
-> *Calm is the alpha. Onchain is the path.*  
-
-<br>
-
 <p align="center">
-  <a href="concept/legend-teaser.md"><b>🐾 The Legend of ZenjiCat (Teaser)</b></a>
+  <i>Read the first whispers of the Zenji legend</i><br>
+  <a href="concept/lore-teaser.md"><b>🐾 The Legend of ZenjiCat (Teaser)</b></a>
 </p>
-
-<br>
