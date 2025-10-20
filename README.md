@@ -77,3 +77,10 @@ This repo will evolve in phases:
 Stay tuned.  
 Stay calm.  
 **Zenji is watching.** 🐾
+
+---
+
+### 📜 Read the first whispers of the Zenji legend
+> Calm is the alpha. Onchain is the path.  
+[→ The Legend of ZenjiCat (Teaser)](concept/lore-teaser.md)
+
