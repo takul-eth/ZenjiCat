@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="visuals/zenjicat-key-visual.JPG" alt="ZenjiCat Key Visual" width="320"/>
+</p>
+
+---
+
 # 🧘‍♂️ ZenjiCat
 
 **The calmest meme on Base.**  
