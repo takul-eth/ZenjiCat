@@ -16,3 +16,6 @@
 > _Onchain is the path._
 
 📜 _The full legend will be revealed in time._
+<p align="center">
+  <img src="../visuals/zenjicat-sleeping-ledger.JPG" width="300" alt="ZenjiCat sleeping on the Ledger">
+</p>
