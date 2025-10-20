@@ -9,11 +9,15 @@
   Born from the quiet corners of Zora — built with love, care, and zero noise.
 </p>
 
+<br>
+
 <p align="center">
   <a href="concept/vision.md">📜 Vision</a> • 
   <a href="concept/legend-teaser.md">🐾 Legend Teaser</a> • 
   <a href="visuals/">🪷 Visuals</a>
 </p>
+
+<br>
 
 ---
 
@@ -89,4 +93,10 @@ Stay calm.
 
 > *Calm is the alpha. Onchain is the path.*  
 
-➡️ [**The Legend of ZenjiCat (Teaser)**](concept/legend-teaser.md)
+<br>
+
+<p align="center">
+  <a href="concept/legend-teaser.md"><b>🐾 The Legend of ZenjiCat (Teaser)</b></a>
+</p>
+
+<br>
