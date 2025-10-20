@@ -16,21 +16,7 @@
   <a href="visuals/">🎨 Visuals</a>
 </p>
 
----
 
-### 🧭 What is ZenjiCat?
-
-ZenjiCat is a calm, builder-native memecoin on [Base](https://base.org) —  
-created with zero hype, zero VCs, zero dump pressure — just pure intention.  
-It’s a symbol of patience and authenticity in a world chasing speed.
-
----
-
-# 🧘‍♂️ ZenjiCat
-
-**The calmest meme on Base.**  
-A silent guardian of good vibes, anti-rug values, and mindful building.  
-Born from the quiet corners of Zora – built with love, care, and zero noise.
 
 ---
 
