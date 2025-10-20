@@ -1,6 +1,28 @@
 <p align="center">
-  <img src="visuals/zenjicat-key-visual.JPG" alt="ZenjiCat Key Visual" width="320"/>
+  <img src="visuals/zenjicat-key-visual.JPG" width="240" alt="ZenjiCat Logo">
 </p>
+
+<h1 align="center">🧘‍♂️ ZenjiCat</h1>
+
+<p align="center">
+  The calmest meme on <strong>Base</strong>.<br>
+  A silent guardian of good vibes, anti-rug values, and mindful building.<br>
+  Born from the quiet corners of Zora — built with love, care, and zero noise.
+</p>
+
+<p align="center">
+  <a href="concept/vision.md">📜 Vision</a> •
+  <a href="concept/lore-teaser.md">🐾 Legend Teaser</a> •
+  <a href="visuals/">🎨 Visuals</a>
+</p>
+
+---
+
+### 🧭 What is ZenjiCat?
+
+ZenjiCat is a calm, builder-native memecoin on [Base](https://base.org) —  
+created with zero hype, zero VCs, zero dump pressure — just pure intention.  
+It’s a symbol of patience and authenticity in a world chasing speed.
 
 ---
 
